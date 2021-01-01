@@ -1,6 +1,6 @@
 {
-  "domain": "<domain here>",
-  "client_id": "<client id>",
+  "domain": "etiiir.eu.auth0.com",
+   "client_id": "tUxZYnXwnau8XJbtyA1d51eaY7tklMhg",
   "redirect_uri": "http://localhost:8080/callback",
   "audience": "<audience>"
 }
